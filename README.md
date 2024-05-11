@@ -9,6 +9,7 @@ The Sublease Post Generator is a web application designed to simplify the creati
 - **Advertisement Generation**: Automatically generates formatted sublease posts based on user input.
 - **Customizable Templates**: Options to add specific details and features of the apartment.
 - **ReactJS**: Built with React to ensure a responsive and dynamic user experience.
+- **Prompt Engineering**: Carefully crafted prompts to maximize the quality of sublease advertisement generation.
 
 ## Technologies Used
 
